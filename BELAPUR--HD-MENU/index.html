@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<title>Malvan Tadka Belapur - Home Delivery Menu (iPhone Compatible)</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="overlay">
+  <h1>Home Delivery Menu</h1>
+  <h2>Malvan Tadka Belapur<br/>
+    <span style="font-size:14px;color:#b85c00;">10% discount on home delivery</span>
+  </h2>
+
+  <label for="searchBar" style="display:none;">Search item</label>
+  <input type="text" id="searchBar" placeholder="Search item..." style="width:100%;padding:10px;font-size:16px;margin-bottom:15px;border-radius:8px;border:1px solid #ccc;">
+
+  <div class="menu" id="menu"></div>
+</div>
+
+<div class="cart" id="cart-sidebar">
+  <div class="cart-header">
+    <h3 id="cart-title" style="margin:0;">🛒 Your Cart</h3>
+    <button class="close-cart" id="close-cart-btn">&times;</button>
+  </div>
+
+  <!-- Cart Items View -->
+  <div id="cart-main-view">
+    <div class="cart-items" id="cart-items">(No items yet)</div>
+    <button class="checkout" id="checkout-btn">Proceed to Checkout</button>
+  </div>
+
+  <!-- Checkout Form View -->
+  <div id="cart-checkout-view" style="display:none;">
+    <div style="background:#f9f9f9; padding:10px; border-radius:8px; margin-bottom:10px; border:1px solid #eee;">
+      <h4 style="font-size:14px; margin-bottom:5px; color:#b85c00;">Order Summary</h4>
+      <pre id="order-summary-mini" style="font-size:12px; white-space:pre-wrap; font-family:inherit; color:#444;"></pre>
+    </div>
+    
+    <form id="delivery-form" style="display:flex;flex-direction:column;gap:8px;">
+      <div>
+        <label for="name" style="font-size: 12px; display: block; margin-bottom: 2px;">Name</label>
+        <input id="name" type="text" placeholder="Name" required style="width:100%;padding:8px;border:1px solid #ccc;border-radius:6px;font-size:14px;">
+      </div>
+      <div>
+        <label for="mobile" style="font-size: 12px; display: block; margin-bottom: 2px;">Mobile Number</label>
+        <input id="mobile" type="tel" placeholder="Mobile Number" required style="width:100%;padding:8px;border:1px solid #ccc;border-radius:6px;font-size:14px;">
+      </div>
+      <div>
+        <label for="building" style="font-size: 12px; display: block; margin-bottom: 2px;">Building / Area</label>
+        <input id="building" type="text" placeholder="Building Name / Area" required style="width:100%;padding:8px;border:1px solid #ccc;border-radius:6px;font-size:14px;">
+      </div>
+      <div style="display:flex; gap:8px;">
+        <div style="flex:1;">
+          <label for="flat" style="font-size: 12px; display: block; margin-bottom: 2px;">Flat/Room</label>
+          <input id="flat" type="text" placeholder="Flat No" required style="width:100%;padding:8px;border:1px solid #ccc;border-radius:6px;font-size:14px;">
+        </div>
+        <div style="flex:1;">
+          <label for="sector" style="font-size: 12px; display: block; margin-bottom: 2px;">Sector</label>
+          <input id="sector" type="text" placeholder="Sector" required style="width:100%;padding:8px;border:1px solid #ccc;border-radius:6px;font-size:14px;">
+        </div>
+      </div>
+    </form>
+
+    <div style="display:flex; flex-direction:column; gap:8px; margin-top:12px;">
+      <button class="whatsapp-btn" id="whatsapp-send" style="width:100%; padding:10px; border-radius:8px; border:none; background:#25d366; color:white; font-weight:bold; cursor:pointer;">
+        Send Order on WhatsApp
+      </button>
+      <button id="back-to-items" style="background:none; border:none; color:#666; cursor:pointer; font-size:13px; text-decoration:underline;">
+        Back to Items
+      </button>
+    </div>
+  </div>
+</div>
+
+<button class="floating-cart" id="floating-cart-btn">
+  🛒
+  <span class="cart-badge" id="cart-badge" style="display:none;">0</span>
+</button>
+
+<script src="script.js"></script>
+</body>
+</html>

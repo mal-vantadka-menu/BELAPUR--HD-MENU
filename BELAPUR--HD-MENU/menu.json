@@ -1,0 +1,394 @@
+[
+  {
+    "title": "BEST SELLER VEG ITEMS",
+    "items": [
+      {"name":"PANEER TIKKA","price":380},
+      {"name":"VEG FRIED RICE","price":240},
+      {"name":"VEG TRIPLE SHEZWAN FRIED RICE","price":340},
+      {"name":"PANEER CHILLY","price":299},
+      {"name":"VEG SPRING ROLL","price":300},
+      {"name":"VEG MANCHURIAN","price":200},
+      {"name":"VEG BIRYANI","price":260},
+      {"name":"SOLKADI","price":85}
+    ]
+  },
+  {
+    "title": "BEST SELLER NONVEG ITEMS",
+    "items": [
+      {"name":"POMFRET TAWA FRY","price":699},
+      {"name":"BOMBIL RAWA FRY","price":299},
+      {"name":"CHICKEN LOLLYPOP","price":310},
+      {"name":"DRUMS OF HEAVEN","price":330},
+      {"name":"CHICKEN TANDOORI FULL","price":440},
+      {"name":"CHICKEN PAHADI TIKKA","price":370},
+      {"name":"CHICKEN FRIED RICE","price":310},
+      {"name":"CHICKEN TRIPLE SHEZWAN FRIED RICE","price":410}
+    ]
+  },
+  {
+    "title": "SOUP",
+    "items": [
+      {"name":"CREAM OF TOMATO(VEG)","price":160},
+      {"name":"CREAM OF MUSHROOM(VEG)","price":160},
+      {"name":"CREAM OF CHICKEN(NONVEG)","price":175},
+      {"name":"MANCHOW SOUP(VEG)","price":160},
+      {"name":"MANCHOW SOUP(NONVEG)","price":175},
+      {"name":"MANCHOW SOUP(SEAFOOD)","price":210},
+      {"name":"SWEET CORN PEARL SOUP(VEG)","price":160},
+      {"name":"SWEET CORN PEARL SOUP(NONVEG)","price":175},
+      {"name":"LEMON CORIENDER SOUP(VEG)","price":160},
+      {"name":"LEMON CORIENDER SOUP(NONVEG)","price":175}
+    ]
+  },
+  {
+    "title": "CRAB",
+    "items": [
+      {"name":"CRAB TANDOORI","price":800},
+      {"name":"CRAB SUKHA","price":800},
+      {"name":"CRAB LAPETA","price":800},
+      {"name":"CRAB MALVANI CURRY","price":800},
+      {"name":"CRAB GOAN CURRY","price":800},
+      {"name":"CRAB MANGLORIAN CURRY","price":800},
+      {"name":"CRAB MALVANI MASALA","price":800}
+     ]
+   },
+   {
+     "title": "PRAWNS",
+     "items": [
+      {"name":"PRAWNS TAWA FRY","price":599},
+      {"name":"PRAWNS KOLIWADA","price":599},
+      {"name":"PRAWNS BUTTER GARLIC","price":599},
+      {"name":"PRAWNS KOKANI TAWA","price":599},
+      {"name":"PRAWNS MANGLORIAN TAWA","price":599},
+      {"name":"PRAWNS TANDOORI","price":599},
+      {"name":"PRAWNS SUKHA","price":599},
+      {"name":"PRAWNS LAPETA","price":599},
+      {"name":"PRAWNS MALVANI CURRY","price":599},
+      {"name":"PRAWNS GOAN CURRY","price":599},
+      {"name":"PRAWNS MALVANI CURRY","price":599},
+      {"name":"PRAWNS MANGLORIAN CURRY","price":599},
+      {"name":"PRAWNS BIRYANI","price":649} 
+    ]
+  },
+  {
+    "title": "FISH-POMFRET(STARTER)",
+    "items": [
+      {"name":"TANDOORI","price":699},
+      {"name":"BANJARA","price":699},
+      {"name":"LASUNI","price":699},
+      {"name":"PAHADI","price":699},
+      {"name":"TAWA FRY","price":699},
+      {"name":"RAWA FRY","price":699},
+      {"name":"KOLIWADA","price":699},
+      {"name":"CHILLY HOT GARLIC","price":699},
+      {"name":"BUTTER GARLIC","price":699}
+    ]
+  },
+  {
+    "title": "POMFRET (SEMI-GRAVY)",
+    "items": [
+      {"name":"KONKANI TAWA","price":699},
+      {"name":"MANGLORAIN TAWA","price":699},
+      {"name":"SUKHA","price":699},
+      {"name":"LAPETA","price":699}
+    ]
+  },
+  {
+    "title": "POMFRET(MAIN-COURSE)",
+    "items": [
+      {"name":"MALVANI CURRY","price":699},
+      {"name":"GOAN CURRY","price":699},
+      {"name":"MANGLORAIN CURRY","price":699}
+    ]
+  },
+  {
+    "title": "SURMAI SLICE(STARTER)",
+    "items": [
+      {"name":"TAWA","price":499},
+      {"name":"RAWA","price":499},
+      {"name":"KOLIWADA","price":499}
+    ]
+  },
+  {
+    "title": "SURMAI (SEMI-DRY)",
+    "items": [
+      {"name":"KONKANI TAWA","price":499},
+      {"name":"MANGLORIAN TAWA","price":499},
+      {"name":"SUKHA","price":499},
+      {"name":"LAPETA","price":499}
+    ]
+  },
+  {
+    "title": "BOMBIL",
+    "items": [
+      {"name":"BOMBIL RAWA FRY","price":299},
+      {"name":"BOMBIL KOLIWADA","price":299}
+    ]
+  },
+  {
+    "title": "FISH RAWAS",
+    "items": [
+      {"name":"RAWAS TIKKA","price":499},
+      {"name":"RAWAS TAWA FRY","price":499},
+      {"name":"RAWAS TANDOORI","price":499},
+      {"name":"RAWAS LASUNI","price":499},
+      {"name":"RAWAS PAHADI","price":499},
+      {"name":"RAWAS HOT GARLIC","price":499},
+      {"name":"RAWAS BUTTER GARLIC","price":499},
+      {"name":"RAWAS KOKANI TAWA","price":499},
+      {"name":"RAWAS MANGLORIAN TAWA","price":499},
+      {"name":"RAWAS LAPETA","price":499},
+      {"name":"RAWAS SUKHA","price":499},
+      {"name":"RAWAS MALVANI CURRY","price":499},
+      {"name":"RAWAS GOAN CURRY","price":499},
+      {"name":"RAWAS MANGLORIAN CURRY","price":499} 
+    ]
+  },
+  {
+    "title": "CHINESE STARTER(VEG)",
+    "items": [
+      {"name":"STIR FRIED VEG IN HOT GARLIC SOUCE","price":285},
+      {"name":"PANEER DRY RED CHILLY","price":299},
+      {"name":"PANEER HOT GARLIC","price":299},
+      {"name":"PANEER SATAY","price":299},
+      {"name":"THREAD PANEER","price":299},
+      {"name":"CRISPY BROCOLLI AND MUSHROOM BLACK BEAN","price":299},
+      {"name":"PANEER IN CHOICE OF SOUCE","price":299}
+    ]
+  },
+  {
+    "title": "CHINESE STARTER(NON-VEG)",
+    "items": [
+      {"name":"DRY RED CHILLY CHICKEN","price":310},
+      {"name":"CHICKEN 65","price":310},
+      {"name":"CRISPY SHREDDED CHICKEN","price":310},
+      {"name":"GINGER CHICKEN","price":310},
+      {"name":"CHICKEN LOLLYPOP","price":310},
+      {"name":"DRUMS OF HEAVEN","price":330},
+      {"name":"KUNG PAO CHICKEN","price":340},
+      {"name":"CHICKEN SALT N PEPPER","price":330},
+      {"name":"KOREAN CHICKEN WINGS","price":330},
+      {"name":"GOLDEN FRIED PRAWNS","price":599}
+    ]
+  },
+  {
+    "title": "TANDOOR STARTER(VEG)",
+    "items": [
+      {"name":"VEG SEEKH KABAB","price":315},
+      {"name":"PANEER CHEESY SEEKH","price":335},
+      {"name":"ACHARI BROCOLLI","price":335},
+      {"name":"MULTANI MUSHROOM","price":350},
+      {"name":"PANEER MALAI TIKKA","price":340},
+      {"name":"TANDOORI VEG PLATTER","price":699},
+      {"name":"PANEER AMRITSARI TIKKA","price":380},
+      {"name":"PANEER PAHADI TIKKA","price":380},
+      {"name":"PANEER BANJARA TIKKA","price":380},
+      {"name":"PANEER ANGARA TIKKA","price":380},
+      {"name":"TANDOORI ALOO","price":299}
+    ]
+  },
+  {
+    "title": "TANDOOR STARTER(NON-VEG)",
+    "items": [
+      {"name":"TANDOORI CHICKEN FULL","price":440},
+      {"name":"TANDOORI CHICKEN HALF","price":250},
+      {"name":"CHICKEN KALAMI KABAB","price":380},
+      {"name":"CHICKEN TANGDI KABAB","price":390},
+      {"name":"CHICKEN TIKKA","price":370},
+      {"name":"CHICKEN PAHADI TIKKA","price":370},
+      {"name":"CHICKEN BANJARA TIKKA","price":370},
+      {"name":"CHICKEN SHOLE KABAB","price":370},
+      {"name":"CHICKEN KASTOORI KABAB","price":370},
+      {"name":"CHICKEN SEEKH KABAB","price":385},
+      {"name":"CHICKEN CHATPATA KABAB","price":370},
+      {"name":"CHICKEN ALISHAN KABAB","price":370},
+      {"name":"TANDOORI LOLLYPOP","price":360},
+      {"name":"TANDOORI KABAB PLATTER","price":1100},
+      {"name":"CHICKEN IRANI KABAB","price":449},
+      {"name":"MUTTON GALOUTI KABAB","price":499},
+      {"name":"MUTTON SEEKH KABAB","price":549}
+    ]
+  },
+  {
+    "title": "MALVANI MAIN-COURSE(VEG)",
+    "items": [
+      {"name":"MIX VEG MALVANI","price":280},
+      {"name":"PANEER MALVANI","price":310},
+      {"name":"MUSHROOM MALVANI","price":310},
+      {"name":"DAL MALVANI","price":260}
+    ]
+  },
+  {
+    "title": "MALVANI MAIN-COURSE(NON-VEG)",
+    "items": [
+      {"name":"CHICKEN HANDI MALVANI","price":{"full":699,"half":399}},
+      {"name":"CHICKEN SUKHA","price":{"full":699,"half":399}},
+      {"name":"CHICKEN(BOILER) LAPETA","price":{"full":699,"half":399}},
+      {"name":"DESI CHICKEN HANDI MALVANI","price":{"full":899,"half":499}},
+      {"name":"DESI CHICKEN SUKHA","price":{"full":899,"half":499}},
+      {"name":"DESI CHICKEN LAPETA","price":{"full":899,"half":499}},
+      {"name":"MUTTON HANDI MALVANI","price":{"full":999,"half":549}},
+      {"name":"MUTTON SUKHA","price":{"full":999,"half":549}},
+      {"name":"MUTTON LAPETA","price":{"full":999,"half":549}},
+      {"name":"CHICKEN SAOJI","price":399},
+      {"name":"CHICKEN SAGOTI","price":399},
+      {"name":"CHICKEN GHEE ROAST","price":449},
+      {"name":"MUTTON SAOJI","price":549},
+      {"name":"MUTTON SAGOTI","price":549},
+      {"name":"EGG MALVANI CURRY","price":249},
+      {"name":"KOMBDI VADE(BOILER)","price":549},
+      {"name":"MUTTON VADE","price":599},
+      {"name":"SURMAI VADE","price":599},
+      {"name":"PRAWNS VADE","price":599},
+      {"name":"EXTRA VADE(5PSC)","price":110}
+    ]
+  },
+  {
+    "title": "NORTH INDIAN MAIN COURSE(VEG)",
+    "items": [
+      {"name":"VEG KOLHAPURI","price":260},
+      {"name":"VEG MARATHA","price":260},
+      {"name":"MUSHROOM MASALA","price":260},
+      {"name":"VEG DIWANI HANDI","price":260},
+      {"name":"PANEER MUSALLAM","price":380},
+      {"name":"PANEER BUTTER MASALA","price":340},
+      {"name":"PANEER TIKKA MASALA","price":360},
+      {"name":"PANEER LABABDAR","price":340},
+      {"name":"ADRAKI DHANIYA PANEER","price":340},
+      {"name":"PALAK PANEER","price":340},
+      {"name":"MALAI KOFTA","price":360},
+      {"name":"KAJU MASALA","price":390},
+      {"name":"DAL FRY","price":210},
+      {"name":"DAL TADKA","price":230}
+    ]
+  },
+  {
+    "title": "NORTH INDIAN(NON-VEG)",
+    "items": [
+      {"name":"BUTTER CHICKEN FULL","price":850},
+      {"name":"BUTTER CHICKEN HALF","price":460},
+      {"name":"CHICKEN KOLHAPURI","price":380},
+      {"name":"CHICKEN TIKKA MASALA","price":390},
+      {"name":"MURG MUSALLAM FULL","price":999},
+      {"name":"MURG MUSALLAM HALF","price":549},
+      {"name":"CHICKEN KADAI","price":380},
+      {"name":"NAWABI MURGH","price":390},
+      {"name":"DUM MALAI MURGH","price":410},
+      {"name":"GOSHT ROGAN JOSH","price":430},
+      {"name":"ADRAKI BHUNA GOSHT","price":430},
+      {"name":"GOSHT BANJARA","price":440},
+      {"name":"GOSHT HARA MASALA","price":430}
+    ]
+  },
+  {
+    "title": "CHINESE MAIN-COURSE (NONVEG)",
+    "items": [
+      {"name":"KUNG PAO CHICKEN","price":320},
+      {"name":"PRAWNS BUTTER GARLIC","price":549},
+      {"name":"VEG THAI CURRY(RED/GREEN)","price":290},
+      {"name":"CHICKEN THAI CURRY(RED/GREEN)","price":410},
+      {"name":"PRAWNS THAI CURRY(RED/GREEN)","price":480}
+    ]
+  },
+  {
+    "title": "INDIAN BREADS",
+    "items": [
+      {"name":"PLAIN ROTI","price":30},
+      {"name":"BUTTER ROTI","price":35},
+      {"name":"NAAN","price":55},
+      {"name":"BUTTER NAAN","price":65},
+      {"name":"KULCHA","price":45},
+      {"name":"BUTTER KULCHA","price":55},
+      {"name":"PARATHA","price":45},
+      {"name":"BUTTER PARATHA","price":55},
+      {"name":"PLAIN GARLIC NAAN","price":120},
+      {"name":"BUTTER GARLIC NAAN","price":130},
+      {"name":"BHAKRI","price":30},
+      {"name":"AMBOLI","price":40},
+      {"name":"GHAVNE[2PSC]","price":60}
+    ]
+  },
+  {
+    "title": "RICE & BIRYANI (VEG)",
+    "items": [
+      {"name":"INDRAYANI RICE","price":{"full":120,"half":110}},
+      {"name":"STEAMED RICE","price":{"full":130,"half":70}},
+      {"name":"JEERA RICE","price":{"full":170,"half":130}}, 
+      {"name":"DAL KHICHDI","price":250},
+      {"name":"PALAK KHICHDI","price":250},
+      {"name":"VEG PULAO","price":240},
+      {"name":"VEG BIRYANI","price":260}
+    ]
+  },
+  {
+    "title": "RICE & BIRYANI (NONVEG)",
+    "items": [
+      {"name":"CHICKEN BIRYANI","price":290},
+      {"name":"MUTTON BIRYANI","price":410},
+      {"name":"PRAWNS BIRYANI","price":450},
+      {"name":"CHICKEN KALA PULAO","price":350},
+      {"name":"TOMATO KOLAMBI BHAAT","price":450}
+    ]
+  },
+  {
+    "title": "CHINESE RICE & NOODLES",
+    "items": [
+      {"name":"VEG FRIED RICE","price":240},
+      {"name":"CHICKEN FRIED RICE","price":310},
+      {"name":"PRAWNS FRIED RICE","price":450},
+      {"name":"VEG SCHEZVAN FRIED RICE","price":250},
+      {"name":"CHICKEN SCHEZWAN FRIED RICE","price":320},
+      {"name":"PRAWNS SCHEZWAN FRIED RICE","price":460},
+      {"name":"VEG HAKKA NOODLE","price":240},
+      {"name":"CHICKEN HAKKA NOODLE","price":310},
+      {"name":"VEG SCHEZWAN NOODLE","price":250},
+      {"name":"CHICKEN SCHEZWAN NOODLE","price":320},
+      {"name":"PRAWNS SCHEZWAN NOODLE","price":450},
+      {"name":"VEG TRIPLE SCHEZWAN FRIED RICE","price":340},
+      {"name":"CHICKEN TRIPLE SCHEZWAN FRIED RICE","price":410}
+     ]
+   },
+   {
+    "title": "CHEF SPECIAL DISHES",
+    "items": [
+      {"name":"CHEF SPECIAL VEG DUM BIRYANI","price":260},
+      {"name":"CHEF SPECIAL CHICKEN DUM BIRYANI","price":349},
+      {"name":"CHEF SPECAIL MUTTON DUM BIRYANI","price":449}, 
+      {"name":"CHEF SPECAIL PANEER DUM BIRYANI","price":290}, 
+      {"name":"CHEF SPECAIL EGG DUM BIRYANI","price":360}   
+    ]
+  },
+  {
+    "title": "BIRYANI (1KG)",
+    "items": [
+      {"name":"VEG BIRYANI 1KG","price":1099},
+      {"name":"CHICKEN BIRYANI 1KG","price":1399},
+      {"name":"MUTTON BIRYANI 1KG","price":1599}   
+    ]
+  },
+  {
+    "title": "REFRESHMENT",
+    "items": [
+      {"name":"SOLKADI","price":85},
+      {"name":"THUMSUP/SPRITE(500ML)","price":60},
+      {"name":"BUTTER MILK","price":80}
+    ]
+  },
+  {
+    "title": "DESSERTS",
+    "items": [
+      {"name":"GULAB JAMUN","price":95},
+      {"name":"CARAMEL CUSTERD","price":110},
+      {"name":"BROWNIE","price":170}
+   ]
+  },
+  {
+    "title": "ALSO AVAILABLE",
+    "items": [
+      {"name":"SEAFOOD LOBSTER DISHES","price":"APC"},
+      {"name":"KAPRI POMFRET DISHES","price":"APC"},
+      {"name":"BABY JITADA DISHES","price":"APC"},
+      {"name":"BASA FISH DISHES","price":"APC"}
+    ]
+  }
+]
