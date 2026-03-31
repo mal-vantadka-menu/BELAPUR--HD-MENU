@@ -5,20 +5,26 @@
 <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
 <meta content="yes" name="apple-mobile-web-app-capable"/>
 <meta content="yes" name="mobile-web-app-capable"/>
-<title>Malvan Tadka Belapur - Home Delivery Menu (iPhone Compatible)</title>
+<title>HOTEL ZEE100 - Home Delivery Menu</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body style="font-family: 'Poppins', sans-serif;">
 <div class="overlay">
-  <h1>Home Delivery Menu</h1>
-  <h2>Malvan Tadka Belapur<br/>
-    <span style="font-size:14px;color:#b85c00;">10% discount on home delivery</span>
-  </h2>
-
+  <div class="menu-header">
+    <h1>HOTEL ZEE100</h1>
+    <div class="header-line"></div>
+    <h2>Home Delivery Menu</h2>
+  </div>
   <label for="searchBar" style="display:none;">Search item</label>
   <input type="text" id="searchBar" placeholder="Search item..." style="width:100%;padding:10px;font-size:16px;margin-bottom:15px;border-radius:8px;border:1px solid #ccc;">
 
+  <div id="category-nav" class="category-nav"></div>
+
   <div class="menu" id="menu"></div>
+  <div style="text-align: center; margin-top: 30px; padding: 20px; color: #ccc; cursor: pointer;" id="admin-toggle">🔒 Admin Mode</div>
 </div>
 
 <div class="cart" id="cart-sidebar">
